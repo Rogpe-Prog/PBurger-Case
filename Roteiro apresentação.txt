@@ -1,0 +1,52 @@
+Roteiro:
+
+1. Abertura e Contexto (5min):
+
+. Relembrar brevemente o problema: POS monolítico, batch, delivery manual, integração frágil.
+. Visão de futuro: plataforma unificada, omnichannel, escalável para 2000 lojas.
+. Essa visão exige arquitetura de plataforma, event-driven e cloud — exatamente o que estamos propondo aqui.
+
+
+2. Princípios Arquiteturais (5 min)
+
+. Cloud-first, escalabilidade e resiliencia.
+. Event-driven como padrão de integração.
+. Omnichannel experiencia: app, web, POS, agregadores.
+. Isolamento por domínios (DDD).
+. Operação offline nas lojas.
+
+3. Arquitetura de Alto Nível (10 min)
+
+. Diagrama de Contexto (C4): aprensentar atores (cliente, funcionário, franqueado, delivery) e como interagem.
+. Diagrama de Contêineres (C4): Apresentar de cima para baixo..
+. Ressaltar estratégia de integração gradual do POS 
+(fase 1 API, fase 2 centralização, fase 3 POS novo).
+. Com essa plataforma unificada habilitamos a expansão rápida de franquias.
+
+4. Fluxo Crítico — Criação de Pedido (5 min)
+
+. Usar o Diagrama de Sequência.
+. Apresentar o diagrma.
+. Reforçar latência (200ms) e resiliência (se loja cair, POS local opera offline e sincroniza depois).
+
+
+5. Decisões Arquiteturais (ADRs) (5 min)
+
+. Mensageria Kafka pela escalabilidade e SNS/SQS mais simples.
+. Banco de dados: NoSQL para alta escrita + SQL para consistencia.
+
+6. Modelagem de Domínio (DDD) (5 min)
+
+7. Plataforma e Engenharia (5 min)
+. Esteira CI/CD: automação, padrões, segurança embutida.
+
+
+
+
+
+
+
+
+
+
+
