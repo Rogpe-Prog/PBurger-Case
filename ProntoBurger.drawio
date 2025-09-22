@@ -390,12 +390,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="MIYnrsYMEr-fhmt_awN4" name="PB - TO-BE Container">
-    <mxGraphModel dx="-1313" dy="-3500" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="-6383" dy="-5839" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <object placeholders="1" c4Name="" c4Type="Person" c4Description="" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="eII6-_y5okLUJkD_O3_o-1">
-          <mxCell style="html=1;fontSize=11;dashed=0;whiteSpace=wrap;fillColor=#6C6477;strokeColor=#4D4D4D;fontColor=#ffffff;shape=mxgraph.c4.person2;align=center;metaEdit=1;points=[[0.5,0,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0]];resizable=0;" vertex="1" parent="1">
+          <mxCell style="html=1;fontSize=11;dashed=0;whiteSpace=wrap;fillColor=#6C6477;strokeColor=#4D4D4D;fontColor=#ffffff;shape=mxgraph.c4.person2;align=center;metaEdit=1;points=[[0.5,0,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0]];resizable=0;" parent="1" vertex="1">
             <mxGeometry x="10182" y="6670" width="200" height="180" as="geometry" />
           </mxCell>
         </object>
@@ -561,7 +561,7 @@
             </mxGeometry>
           </mxCell>
         </object>
-        <object placeholders="1" c4Name="Order Manager" c4Type="Container" c4Technology="SpringBoot" c4Description="Criação, atualização e status de pedidos, integra todos os canais.&#xa;&#xa;Orquestrador" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="rwaNKbrSnA0TrjXZ27Er-529">
+        <object placeholders="1" c4Name="Order Manager" c4Type="Container" c4Technology="Microservice EKS" c4Description="Criação, atualização e status de pedidos, integra todos os canais.&#xa;&#xa;Orquestrador" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="rwaNKbrSnA0TrjXZ27Er-529">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=none;fillColor=#23A2D9;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#0E7DAD;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="rwaNKbrSnA0TrjXZ27Er-310" vertex="1">
             <mxGeometry x="1623" y="572" width="240" height="120" as="geometry" />
           </mxCell>
@@ -571,7 +571,7 @@
             <mxGeometry x="1680" y="732" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
-        <object placeholders="1" c4Name="Cart/Checkout" c4Type="Container" c4Technology="SpringBoot" c4Description="Resposavel pelo carrinho e pelo checkout" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="rwaNKbrSnA0TrjXZ27Er-531">
+        <object placeholders="1" c4Name="Cart/Checkout" c4Type="Container" c4Technology="Microservice EKS" c4Description="Resposavel pelo carrinho e pelo checkout" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="rwaNKbrSnA0TrjXZ27Er-531">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=none;fillColor=#23A2D9;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#0E7DAD;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="rwaNKbrSnA0TrjXZ27Er-310" vertex="1">
             <mxGeometry x="1260" y="576" width="240" height="120" as="geometry" />
           </mxCell>
@@ -653,7 +653,7 @@
             </mxGeometry>
           </mxCell>
         </object>
-        <object placeholders="1" c4Name="Order Manager" c4Type="Container" c4Technology="SpringBoot" c4Description="Criação, atualização e status de pedidos, integra todos os canais.&#xa;&#xa;Orquestrador" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="rwaNKbrSnA0TrjXZ27Er-563">
+        <object placeholders="1" c4Name="Order Manager" c4Type="Container" c4Technology="Microservice EKS" c4Description="Criação, atualização e status de pedidos, integra todos os canais.&#xa;&#xa;Orquestrador" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="rwaNKbrSnA0TrjXZ27Er-563">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=none;fillColor=#23A2D9;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#0E7DAD;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="rwaNKbrSnA0TrjXZ27Er-310" vertex="1">
             <mxGeometry x="4343" y="572" width="240" height="120" as="geometry" />
           </mxCell>
@@ -663,27 +663,27 @@
             <mxGeometry x="4400" y="732" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
-        <object placeholders="1" c4Name="Cart/Checkout" c4Type="Container" c4Technology="SpringBoot" c4Description="Resposavel pelo carrinho e pelo checkout" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="rwaNKbrSnA0TrjXZ27Er-565">
+        <object placeholders="1" c4Name="Cart/Checkout" c4Type="Container" c4Technology="Microservice EKS" c4Description="Resposavel pelo carrinho e pelo checkout" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="rwaNKbrSnA0TrjXZ27Er-565">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=none;fillColor=#23A2D9;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#0E7DAD;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="rwaNKbrSnA0TrjXZ27Er-310" vertex="1">
             <mxGeometry x="3980" y="576" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
-        <object placeholders="1" c4Name="Catalog Service" c4Type="Container" c4Technology="SpringBoot" c4Description="Distribuição centralizada de itens, preços e disponibilidade para todos os canais" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="rwaNKbrSnA0TrjXZ27Er-567">
+        <object placeholders="1" c4Name="Catalog Service" c4Type="Container" c4Technology="Microservice EKS" c4Description="Distribuição centralizada de itens, preços e disponibilidade para todos os canais" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="rwaNKbrSnA0TrjXZ27Er-567">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=none;fillColor=#23A2D9;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#0E7DAD;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="rwaNKbrSnA0TrjXZ27Er-310" vertex="1">
             <mxGeometry x="3240" y="574" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
-        <object placeholders="1" c4Name="Promotion Service" c4Type="Container" c4Technology="SpringBoot" c4Description="Motor de regras de promoções e cupons, aplicável a canais específicos ou globais" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="rwaNKbrSnA0TrjXZ27Er-568">
+        <object placeholders="1" c4Name="Promotion Service" c4Type="Container" c4Technology="Microservice EKS" c4Description="Motor de regras de promoções e cupons, aplicável a canais específicos ou globais" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="rwaNKbrSnA0TrjXZ27Er-568">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=none;fillColor=#23A2D9;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#0E7DAD;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="rwaNKbrSnA0TrjXZ27Er-310" vertex="1">
             <mxGeometry x="3600" y="574" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
-        <object placeholders="1" c4Name="Franchise Service" c4Type="Container" c4Technology="SpringBoot" c4Description="Gestão de franquias e isolamento de dados por unidade (controle de pedidos, estoque, promoções)" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="rwaNKbrSnA0TrjXZ27Er-569">
+        <object placeholders="1" c4Name="Franchise Service" c4Type="Container" c4Technology="Microservice EKS" c4Description="Gestão de franquias e isolamento de dados por unidade (controle de pedidos, estoque, promoções)" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="rwaNKbrSnA0TrjXZ27Er-569">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=none;fillColor=#23A2D9;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#0E7DAD;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="rwaNKbrSnA0TrjXZ27Er-310" vertex="1">
             <mxGeometry x="4712" y="586" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
-        <object placeholders="1" c4Name="Delivery Service" c4Type="Container" c4Technology="SpringBoot" c4Description="Integração com agregadores externos.&#xa;- Normaliza pedidos (formato interno) &#xa;- Atualiza status nos agregadores&#xa;- Sincroniza cardápio e promoções  &#xa;- Retry / resiliente a falhas   " label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="rwaNKbrSnA0TrjXZ27Er-570">
+        <object placeholders="1" c4Name="Delivery Service" c4Type="Container" c4Technology="Microservice EKS" c4Description="Integração com agregadores externos.&#xa;- Normaliza pedidos (formato interno) &#xa;- Atualiza status nos agregadores&#xa;- Sincroniza cardápio e promoções  &#xa;- Retry / resiliente a falhas   " label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="rwaNKbrSnA0TrjXZ27Er-570">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=none;fillColor=#23A2D9;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#0E7DAD;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="rwaNKbrSnA0TrjXZ27Er-310" vertex="1">
             <mxGeometry x="5072" y="596" width="240" height="120" as="geometry" />
           </mxCell>
@@ -731,7 +731,7 @@
             </mxGeometry>
           </mxCell>
         </object>
-        <object placeholders="1" c4Name="Inventory" c4Type="Container" c4Technology="SpringBoot" c4Description="Controla o estoque e/ou inventário dos itens. Possui as regras de estoque e recebe eventos do Order Manager." label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="rwaNKbrSnA0TrjXZ27Er-578">
+        <object placeholders="1" c4Name="Inventory" c4Type="Container" c4Technology="Microservice EKS" c4Description="Controla o estoque e/ou inventário dos itens. Possui as regras de estoque e recebe eventos do Order Manager." label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="rwaNKbrSnA0TrjXZ27Er-578">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=none;fillColor=#23A2D9;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#0E7DAD;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="rwaNKbrSnA0TrjXZ27Er-310" vertex="1">
             <mxGeometry x="2865" y="576" width="240" height="120" as="geometry" />
           </mxCell>
@@ -1200,7 +1200,7 @@
             </mxGeometry>
           </mxCell>
         </object>
-        <mxCell id="Uqs4oLGj89MJXOwiSVni-5" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&amp;nbsp;Itens que necessitam atenção:&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;ul style=&quot;font-size: 14px;&quot;&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Arquitetura dos containers do EKS, cluster multi-AZ com nodes distribuidos, em caso de falha na AZ-a EKS recria na AZ-b, com Auto Scaling Group para rodar em multiplas AZs.&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;Arquitetura&amp;nbsp; de Microfrontends em containers dentro do cluster EKS Multi-AZ.&lt;/li&gt;&lt;li&gt;Arquitetura do MSK - Kafka, multi AZ com brokers redudantes. Kafka replica entre as AZs para tolerancia a falha. Idempotência e Particionamento.&lt;/li&gt;&lt;li&gt;Arquitetura do auroraDB Cluster com distribuição atomatica em multi AZs.&lt;/li&gt;&lt;li&gt;Arquitetura do MongoDB demonstrando Replica Set que é composto por Primary e Secondaries.&lt;/li&gt;&lt;li&gt;Arquitetura das camadas de Observabilidade: Logs, métricas, eventos, dashboard e alarmes através do CloudWhatch (X-Ray).&lt;/li&gt;&lt;li&gt;Arquitetura de conexão multi nuvem AWS e GCP camadas de segurança dos dados em transito e descanso.&lt;/li&gt;&lt;li&gt;Arquitetura separada para Carrinho e o Checkout, documentar bem as resposabilidades de ambos.&lt;/li&gt;&lt;li&gt;Documentar o padrão Saga para o Checkout, com suporte a compesação e rollback para falhas.&lt;/li&gt;&lt;li&gt;Pensar em um&amp;nbsp; cache para manter o estado do carrinho enquanto o cliente navega.&lt;/li&gt;&lt;li&gt;Representar o Financeiro/Contabilidade/Reconciliação.&lt;/li&gt;&lt;li&gt;Pensar no Fiscal (Tinha um ERP).&lt;/li&gt;&lt;li&gt;Representar Compras e Fornecedores e conexão com o Estoque.&lt;/li&gt;&lt;li&gt;Representar a convivencia com o ERP e outro sistema legado.&lt;/li&gt;&lt;li&gt;Representar Adaptadores com API GW e Eventos para decomissionar o POS legado.&lt;/li&gt;&lt;li&gt;Falta console de Administração para catalogo, promoções e estoque.&lt;/li&gt;&lt;li&gt;Arquitetura da aplicação POS e KDS, em WPA utilizando service workers para caching e filas offline.&lt;/li&gt;&lt;li&gt;Fluxo de cache, invalidação, atualização.&lt;/li&gt;&lt;li&gt;Arquitetura de Prevenção a Fraude, conectado ao OrderManager.&lt;/li&gt;&lt;li&gt;Detalhar a sepração dos Tenants ex: lojaId, franqueadoId. AuroraDB e MongoDB com tenantId tabelas e coleções.&lt;/li&gt;&lt;li&gt;Portal de APIs, para documentações Swagger, exemplos e para facilitar o onboarding dos parceiros ex.: Delivery, Franquias.&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;align=left;verticalAlign=top;" parent="1" vertex="1">
+        <mxCell id="Uqs4oLGj89MJXOwiSVni-5" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&amp;nbsp;Pontos de atenção:&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;ul style=&quot;font-size: 14px;&quot;&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Arquitetura dos containers do EKS, cluster multi-AZ com nodes distribuidos, em caso de falha na AZ-a EKS recria na AZ-b, com Auto Scaling Group para rodar em multiplas AZs.&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;Arquitetura&amp;nbsp; de Microfrontends em containers dentro do cluster EKS Multi-AZ.&lt;/li&gt;&lt;li&gt;Arquitetura do MSK - Kafka, multi AZ com brokers redudantes. Kafka replica entre as AZs para tolerancia a falha. Idempotência e Particionamento.&lt;/li&gt;&lt;li&gt;Arquitetura do auroraDB Cluster com distribuição atomatica em multi AZs.&lt;/li&gt;&lt;li&gt;Arquitetura do MongoDB demonstrando Replica Set que é composto por Primary e Secondaries.&lt;/li&gt;&lt;li&gt;Arquitetura das camadas de Observabilidade: Logs, métricas, eventos, dashboard e alarmes através do CloudWhatch (X-Ray).&lt;/li&gt;&lt;li&gt;Arquitetura de conexão multi nuvem AWS e GCP camadas de segurança dos dados em transito e descanso.&lt;/li&gt;&lt;li&gt;Arquitetura separada para Carrinho e o Checkout, documentar bem as resposabilidades de ambos.&lt;/li&gt;&lt;li&gt;Documentar o padrão Saga para o Checkout, com suporte a compesação e rollback para falhas.&lt;/li&gt;&lt;li&gt;Pensar em um&amp;nbsp; cache para manter o estado do carrinho enquanto o cliente navega.&lt;/li&gt;&lt;li&gt;Representar o Financeiro/Contabilidade/Reconciliação.&lt;/li&gt;&lt;li&gt;Pensar no Fiscal (Tinha um ERP).&lt;/li&gt;&lt;li&gt;Representar Compras e Fornecedores e conexão com o Estoque.&lt;/li&gt;&lt;li&gt;Representar a convivencia com o ERP e outro sistema legado.&lt;/li&gt;&lt;li&gt;Representar Adaptadores com API GW e Eventos para decomissionar o POS legado.&lt;/li&gt;&lt;li&gt;Falta console de Administração para catalogo, promoções e estoque.&lt;/li&gt;&lt;li&gt;Arquitetura da aplicação POS e KDS, em WPA utilizando service workers para caching e filas offline.&lt;/li&gt;&lt;li&gt;Fluxo de cache, invalidação, atualização.&lt;/li&gt;&lt;li&gt;Arquitetura de Prevenção a Fraude, conectado ao OrderManager.&lt;/li&gt;&lt;li&gt;Detalhar a sepração dos Tenants ex: lojaId, franqueadoId. AuroraDB e MongoDB com tenantId tabelas e coleções.&lt;/li&gt;&lt;li&gt;Portal de APIs, para documentações Swagger, exemplos e para facilitar o onboarding dos parceiros ex.: Delivery, Franquias.&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;align=left;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="13960" y="8000" width="1000" height="480" as="geometry" />
         </mxCell>
         <mxCell id="rwaNKbrSnA0TrjXZ27Er-299" value="&lt;b&gt;Google &lt;/b&gt;Cloud Platform" style="fillColor=#F6F6F6;strokeColor=none;shadow=0;gradientColor=none;fontSize=14;align=left;spacing=10;fontColor=#717171;9E9E9E;verticalAlign=top;spacingTop=-4;fontStyle=0;spacingLeft=40;html=1;whiteSpace=wrap;" parent="1" vertex="1">
@@ -1265,22 +1265,22 @@
             </mxGeometry>
           </mxCell>
         </object>
-        <object placeholders="1" c4Name="Catalog Service" c4Type="Container" c4Technology="SpringBoot" c4Description="Distribuição centralizada de itens, preços e disponibilidade para todos os canais" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="rwaNKbrSnA0TrjXZ27Er-387">
+        <object placeholders="1" c4Name="Catalog Service" c4Type="Container" c4Technology="Microservice EKS" c4Description="Distribuição centralizada de itens, preços e disponibilidade para todos os canais" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="rwaNKbrSnA0TrjXZ27Er-387">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=none;fillColor=#23A2D9;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#0E7DAD;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="1" vertex="1">
             <mxGeometry x="8430" y="8952" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
-        <object placeholders="1" c4Name="Promotion Service" c4Type="Container" c4Technology="SpringBoot" c4Description="Motor de regras de promoções e cupons, aplicável a canais específicos ou globais" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="rwaNKbrSnA0TrjXZ27Er-388">
+        <object placeholders="1" c4Name="Promotion Service" c4Type="Container" c4Technology="Microservice EKS" c4Description="Motor de regras de promoções e cupons, aplicável a canais específicos ou globais" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="rwaNKbrSnA0TrjXZ27Er-388">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=none;fillColor=#23A2D9;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#0E7DAD;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="1" vertex="1">
             <mxGeometry x="8790" y="8952" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
-        <object placeholders="1" c4Name="Franchise Service" c4Type="Container" c4Technology="SpringBoot" c4Description="Gestão de franquias e isolamento de dados por unidade (controle de pedidos, estoque, promoções)" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="rwaNKbrSnA0TrjXZ27Er-389">
+        <object placeholders="1" c4Name="Franchise Service" c4Type="Container" c4Technology="Microservice EKS" c4Description="Gestão de franquias e isolamento de dados por unidade (controle de pedidos, estoque, promoções)" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="rwaNKbrSnA0TrjXZ27Er-389">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=none;fillColor=#23A2D9;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#0E7DAD;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="1" vertex="1">
             <mxGeometry x="9902" y="8964" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
-        <object placeholders="1" c4Name="Delivery Service" c4Type="Container" c4Technology="SpringBoot" c4Description="Integração com agregadores externos.&#xa;- Normaliza pedidos (formato interno) &#xa;- Atualiza status nos agregadores&#xa;- Sincroniza cardápio e promoções  &#xa;- Retry / resiliente a falhas   " label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="rwaNKbrSnA0TrjXZ27Er-390">
+        <object placeholders="1" c4Name="Delivery Service" c4Type="Container" c4Technology="Microservice EKS" c4Description="Integração com agregadores externos.&#xa;- Normaliza pedidos (formato interno) &#xa;- Atualiza status nos agregadores&#xa;- Sincroniza cardápio e promoções  &#xa;- Retry / resiliente a falhas   " label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="rwaNKbrSnA0TrjXZ27Er-390">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=none;fillColor=#23A2D9;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#0E7DAD;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="1" vertex="1">
             <mxGeometry x="10262" y="8974" width="240" height="120" as="geometry" />
           </mxCell>
@@ -1419,7 +1419,7 @@
             </mxGeometry>
           </mxCell>
         </object>
-        <object placeholders="1" c4Name="Inventory" c4Type="Container" c4Technology="SpringBoot" c4Description="Controla o estoque e/ou inventário dos itens. Possui as regras de estoque e recebe eventos do Order Manager." label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="rwaNKbrSnA0TrjXZ27Er-409">
+        <object placeholders="1" c4Name="Inventory" c4Type="Container" c4Technology="Microservice EKS" c4Description="Controla o estoque e/ou inventário dos itens. Possui as regras de estoque e recebe eventos do Order Manager." label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="rwaNKbrSnA0TrjXZ27Er-409">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=none;fillColor=#23A2D9;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#0E7DAD;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="1" vertex="1">
             <mxGeometry x="8055" y="8954" width="240" height="120" as="geometry" />
           </mxCell>
@@ -2342,12 +2342,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="rZM9ENizxudpFCY-lQzP" name="PB - Diagrama Seq.">
-    <mxGraphModel dx="2234" dy="1236" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2372" dy="1125" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="xR4ZFz_5M_Fzzcy2BbkF-1" value="Fluxo realizar Pedido no POS online" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;" parent="1" vertex="1">
-          <mxGeometry x="-671" y="-170" width="382" height="30" as="geometry" />
+        <mxCell id="xR4ZFz_5M_Fzzcy2BbkF-1" value="Fluxo de Pedido&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;" parent="1" vertex="1">
+          <mxGeometry x="-671" y="-170" width="201" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wHrfRTCN8mO0YCkHbBrr-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="wHrfRTCN8mO0YCkHbBrr-2" target="wHrfRTCN8mO0YCkHbBrr-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -2400,14 +2400,8 @@
         <mxCell id="wHrfRTCN8mO0YCkHbBrr-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="wHrfRTCN8mO0YCkHbBrr-11" target="wHrfRTCN8mO0YCkHbBrr-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wHrfRTCN8mO0YCkHbBrr-11" value="POS" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontSize=9;strokeColor=#828282;" parent="1" vertex="1">
+        <mxCell id="wHrfRTCN8mO0YCkHbBrr-11" value="App/Web" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontSize=9;strokeColor=#828282;" parent="1" vertex="1">
           <mxGeometry x="-671" y="-120" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="wHrfRTCN8mO0YCkHbBrr-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="wHrfRTCN8mO0YCkHbBrr-12" target="wHrfRTCN8mO0YCkHbBrr-22" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="wHrfRTCN8mO0YCkHbBrr-12" value="KDS" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontSize=9;strokeColor=#828282;" parent="1" vertex="1">
-          <mxGeometry x="-558" y="-119" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wHrfRTCN8mO0YCkHbBrr-13" value="BFF (APIGW)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontSize=9;strokeColor=#828282;" parent="1" vertex="1">
           <mxGeometry x="-386" y="450" width="70" height="30" as="geometry" />
@@ -2433,11 +2427,8 @@
         <mxCell id="wHrfRTCN8mO0YCkHbBrr-20" value="Kafka" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontSize=9;strokeColor=#828282;" parent="1" vertex="1">
           <mxGeometry x="268.5" y="450" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wHrfRTCN8mO0YCkHbBrr-21" value="POS" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontSize=9;strokeColor=#828282;" parent="1" vertex="1">
+        <mxCell id="wHrfRTCN8mO0YCkHbBrr-21" value="App/Web" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontSize=9;strokeColor=#828282;" parent="1" vertex="1">
           <mxGeometry x="-671" y="450" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="wHrfRTCN8mO0YCkHbBrr-22" value="KDS" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontSize=9;strokeColor=#828282;" parent="1" vertex="1">
-          <mxGeometry x="-558" y="451" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wHrfRTCN8mO0YCkHbBrr-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="wHrfRTCN8mO0YCkHbBrr-33" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -2588,23 +2579,6 @@
         <mxCell id="wHrfRTCN8mO0YCkHbBrr-51" value="18" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rotation=0;gradientColor=#223548;strokeColor=none;gradientDirection=east;fillColor=#5b738b;rounded=0;pointerEvents=0;fontFamily=Helvetica;fontSize=7;fontColor=#FFFFFF;spacingTop=4;spacingBottom=4;spacingLeft=4;spacingRight=4;points=[];fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="-119" y="310" width="19" height="19" as="geometry" />
         </mxCell>
-        <mxCell id="wHrfRTCN8mO0YCkHbBrr-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-526" y="350.49999999999955" as="targetPoint" />
-            <mxPoint x="-626.5000455291565" y="350.52941176470586" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="wHrfRTCN8mO0YCkHbBrr-52" value="19" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rotation=0;gradientColor=#223548;strokeColor=none;gradientDirection=east;fillColor=#5b738b;rounded=0;pointerEvents=0;fontFamily=Helvetica;fontSize=7;fontColor=#FFFFFF;spacingTop=4;spacingBottom=4;spacingLeft=4;spacingRight=4;points=[];fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="-645.5" y="340" width="19" height="19" as="geometry" />
-        </mxCell>
-        <mxCell id="wHrfRTCN8mO0YCkHbBrr-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" parent="1" source="wHrfRTCN8mO0YCkHbBrr-53" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-636" y="379.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="wHrfRTCN8mO0YCkHbBrr-53" value="20" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rotation=0;gradientColor=#223548;strokeColor=none;gradientDirection=east;fillColor=#5b738b;rounded=0;pointerEvents=0;fontFamily=Helvetica;fontSize=7;fontColor=#FFFFFF;spacingTop=4;spacingBottom=4;spacingLeft=4;spacingRight=4;points=[];fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="-532" y="370" width="19" height="19" as="geometry" />
-        </mxCell>
         <mxCell id="wHrfRTCN8mO0YCkHbBrr-55" value="Adiciona item ao carrinho" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" parent="1" vertex="1">
           <mxGeometry x="-506" y="-80" width="99" height="10" as="geometry" />
         </mxCell>
@@ -2670,18 +2644,12 @@
         <mxCell id="wHrfRTCN8mO0YCkHbBrr-92" value="atualiza front" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" parent="1" vertex="1">
           <mxGeometry x="-456" y="310" width="49" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="wHrfRTCN8mO0YCkHbBrr-94" value="notifica KDS" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" parent="1" vertex="1">
-          <mxGeometry x="-607" y="340" width="49" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="wHrfRTCN8mO0YCkHbBrr-96" value="atualiza front" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" parent="1" vertex="1">
-          <mxGeometry x="-607" y="370" width="49" height="10" as="geometry" />
-        </mxCell>
         <mxCell id="wHrfRTCN8mO0YCkHbBrr-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="wHrfRTCN8mO0YCkHbBrr-97" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-116" y="410.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wHrfRTCN8mO0YCkHbBrr-97" value="20" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rotation=0;gradientColor=#223548;strokeColor=none;gradientDirection=east;fillColor=#5b738b;rounded=0;pointerEvents=0;fontFamily=Helvetica;fontSize=7;fontColor=#FFFFFF;spacingTop=4;spacingBottom=4;spacingLeft=4;spacingRight=4;points=[];fontStyle=0" parent="1" vertex="1">
+        <mxCell id="wHrfRTCN8mO0YCkHbBrr-97" value="19" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rotation=0;gradientColor=#223548;strokeColor=none;gradientDirection=east;fillColor=#5b738b;rounded=0;pointerEvents=0;fontFamily=Helvetica;fontSize=7;fontColor=#FFFFFF;spacingTop=4;spacingBottom=4;spacingLeft=4;spacingRight=4;points=[];fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="-646" y="401" width="19" height="19" as="geometry" />
         </mxCell>
         <mxCell id="wHrfRTCN8mO0YCkHbBrr-99" value="atualiza status pedido" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" parent="1" vertex="1">
